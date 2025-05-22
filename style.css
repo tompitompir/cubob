@@ -1,0 +1,56 @@
+body{
+    background-color: #0B2545;
+    color: #8DA9C4;
+}
+
+.main{
+    background-color: #134074;
+}
+
+.first_emptybox{
+    height: 100px;
+}
+
+.last_emptybox{
+    height: 30px;
+}
+
+.szunet{
+    margin: 3px;
+}
+
+.header{
+    background-color: #13315C;
+    padding-bottom: 10px;
+}
+
+.header input{
+    width: 400px;
+}
+
+.header h1{
+    text-align: center;
+    font-size: 400%;
+}
+
+table {
+  width: 100%;
+  font-size: 130%;
+}
+
+tr{
+  background-color: #13315C;
+}
+
+tr:nth-child(even) {
+    background-color: #0B2545;
+}
+
+table{
+    border: solid 5px #0B2545;
+}
+
+h1, h2{
+    font-variant: small-caps;
+    font-weight: bold;
+}
